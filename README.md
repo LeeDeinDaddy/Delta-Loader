@@ -1,2 +1,2 @@
-# Delta-Loader
-New Delta Loader V6.0 (Byfron bypass) 
+# Vega187
+Vega X 1.5.5 Byfron Bypass (Updated)
